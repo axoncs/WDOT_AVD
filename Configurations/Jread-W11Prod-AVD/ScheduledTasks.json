@@ -1,72 +1,72 @@
 [
   {
     "ScheduledTask": "AnalyzeSystem",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task analyzes the system looking for conditions that may cause high energy use."
   },
   {
     "ScheduledTask": "Cellular",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Related to cellular devices"
   },
   {
     "ScheduledTask": "Consolidator",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "If the user has consented to participate in the Windows Customer Experience Improvement Program, this job collects and sends usage data to Microsoft."
   },
   {
     "ScheduledTask": "Diagnostics",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "(DiskFootprint in task path) 'DiskFootprint' is the combined contribution of all processes that issue storage I/O in the form of storage reads, writes, and flushes."
   },
   {
     "ScheduledTask": "FamilySafetyMonitor",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Initializes Family Safety monitoring and enforcement."
   },
   {
     "ScheduledTask": "FamilySafetyRefreshTask",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Synchronizes the latest settings with the Microsoft family features service."
   },
   {
     "ScheduledTask": "MapsToastTask",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task shows various Map related toasts"
   },
   {
     "ScheduledTask": "*Compatibility*",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Collects program telemetry information if opted-in to the Microsoft Customer Experience Improvement Program."
   },
   {
     "ScheduledTask": "Microsoft-Windows-DiskDiagnosticDataCollector",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "The Windows Disk Diagnostic reports general disk and system information to Microsoft for users participating in the Customer Experience Program."
   },
   {
     "ScheduledTask": "NotificationTask",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Background task for performing per user and web interactions"
   },
   {
     "ScheduledTask": "ProcessMemoryDiagnosticEvents",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Schedules a memory diagnostic in response to system events."
   },
   {
     "ScheduledTask": "Proxy",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task collects and uploads autochk SQM data if opted-in to the Microsoft Customer Experience Improvement Program."
   },
   {
     "ScheduledTask": "QueueReporting",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "  "
   },
   {
     "ScheduledTask": "RecommendedTroubleshootingScanner",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Check for recommended troubleshooting from Microsoft"
   },
   {
@@ -76,72 +76,72 @@
   },
   {
     "ScheduledTask": "RunFullMemoryDiagnostic",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Detects and mitigates problems in physical memory (RAM)."
   },
   {
     "ScheduledTask": "ScheduledDefrag",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task optimizes local storage drives."
   },
   {
     "ScheduledTask": "SpeechModelDownloadTask",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": null
   },
   {
     "ScheduledTask": "Sqm-Tasks",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task gathers information about the Trusted Platform Module (TPM), Secure Boot, and Measured Boot."
   },
   {
     "ScheduledTask": "SR",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task creates regular system protection points."
   },
   {
     "ScheduledTask": "StartComponentCleanup",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Servicing task that may be better performed during maintenance windows"
   },
   {
     "ScheduledTask": "WindowsActionDialog",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Location Notification"
   },
   {
     "ScheduledTask": "WinSAT",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Measures a system's performance and capabilities"
   },
   {
     "ScheduledTask": "XblGameSaveTask",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Xbox Live GameSave standby task"
   },
   {
     "ScheduledTask": "UsbCeip",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Customer Experience Improvement Program task"
   },
   {
     "ScheduledTask": "VerifyWinRE",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Validates the Windows Recovery Environment."
   },
   {
     "ScheduledTask": "Work Folders Logon Synchronization",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task initiates synchronization of Work Folders partnerships when a user logs onto the system."
   },
   {
     "ScheduledTask": "Work Folders Maintenance Work",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "This task initiates maintenance work required for on-going good performance of data synchronization of Work Folders partnerships."
   },
   {
     "ScheduledTask": "Restore",
-    "OptimizationState": "Skip",
+    "OptimizationState": "Apply",
     "Description": "Handles restoring settings from the cloud"
   }
 ]
